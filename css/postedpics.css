@@ -1,0 +1,96 @@
+.hrishi-2 {
+	width: 300px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.meme {
+	width: 250px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.aarathipic {
+	width: 500px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.ajexpic {
+	width: 290px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.hrishi {
+	width: 230px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.hrishi-3 {
+	width: 250px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.topclasspic {
+	width: 350px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.ant-post1 {
+	width: 270px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.ant-post2 {
+	width: 155px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.nowuseemepic {
+	width: 130px;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.aarathi-pic {
+	width: 555px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.drawing-aarathi {
+	width: 295px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+.googleform {
+	width: 495px;
+	margin-left: 30px;
+	margin-top: 10px;
+	border-radius: 15px;
+}
+@media only screen and (max-width: 700px) {
+	.aarathipic {
+    width: 200px;
+    margin-left: 30px;
+    margin-top: 10px;
+    border-radius: 15px;
+}
+	.nowuseemepic {
+		width: 254px;
+	}
+}
+@media only screen and (max-width: 380px) {
+	.hrishi-2 {
+		width: 230px;
+	}
+	.topclasspic {
+    width: 250px;
+}
+}

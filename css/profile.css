@@ -1,0 +1,149 @@
+div.profile {
+	display: flex;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+.profilename {
+	color: #fff;
+	font-size: 20px;
+	margin-top: 30px;
+	text-decoration: none;
+	margin-left: 8px;
+}
+.profilename:hover {
+	color: #6773ff;
+	font-size: 20px;
+	margin-top: 30px;
+	margin-left: 8px;
+	text-decoration: underline;
+
+}
+.profilename1 {
+	color: #fff;
+	font-size: 20px;
+	margin-top: 30px;
+	margin-left: 8px;
+}
+.profilepic {
+	width: 60px;
+	margin-top: 20px;
+}
+.profilepic1 {
+	width: 60px;
+	margin-top: 20px;
+	border-radius: 50px;
+}
+.maxonprofilepic {
+	width: 50px;
+	margin-top: 20px;
+}
+.ajexprofilepic {
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+}
+.aaromalprofilepic {
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+	border-radius: 50px;
+}
+.maheshprofilepic {
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+}
+.aaldrinprofilepic {
+	width: 50px;
+	height: 50px;
+	margin-top: 15px;
+}
+
+#border-profile-hrishi{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  1460px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-maxon{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  700px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-aarathi{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  1080px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-aaromal {
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  689px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-aaldrin{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  640px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-ajex{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  635px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-arava{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  2484px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-maheshwar{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  1118px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-antony{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  1580px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-achu{
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  3041px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-aravi {
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  688px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}

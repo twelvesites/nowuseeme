@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Explore</title>
+	<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+	<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/postedpics.css">
+	<link rel="stylesheet" type="text/css" href="css/profile.css">
+</head>
+<body>
+		<section id="sidebar">
+ 			
+ 			<img src="images/arava.png" class="logo">
+ 				
+
+							<br><br><br><br><br><br>
+ 			<a href="explore.html"><button class="sidebar-button"><ion-icon name="compass-outline" class="icons" ></ion-icon>Recents</button></a><br><br>
+ 			<a href=""><button class="sidebar-button"><ion-icon name="search-outline" class="icons"></ion-icon><b>Search</b></button></a><br><br>
+ 			<a href="post.html"><button class="sidebar-button"><ion-icon name="cloud-upload-outline" class="icons"></ion-icon>Post</button></a><br><br>
+            <a href="feedback.html"><button class="sidebar-button"><ion-icon name="color-wand-outline" class="icons"></ion-icon>Feedback</button></a>
+ 
+ 		</section>
+
+
+ 		<section class="page">
+ 			
+	
+	<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search Users.." title="Type in a name" class="search">
+	<section id="search">
+
+	<ul id="myUL">
+		<h1 class="caption">People you might know:</h1>
+<li><a href="users/aravindraj.html">Aravindraj</a></li>
+  <li ><a href="users/ajex.html">Ajex C Binu</a></li>
+  <li ><a href="users/arava.html">Arava</a></li>
+    <li><a href="users/aarathi.html">Aarathi Shiju</a></li>
+    <li ><a href="users/aaromal.html">Aaromal Shiju</a></li>
+    <li ><a href="users/aaldrin.html">Aaldrin Varghese</a></li>
+    <li><a href="users/antony.html">Antony John</a></li>
+  <li ><a href="users/achu.html">Achuzzxtar</a></li>
+
+  <li ><a href="users/george.html">George</a></li>
+
+  <li ><a href="users/hrishikesh.html">Hrishikesh Harishkumar</a></li>
+  <li ><a href="users/maheshwar.html">Maheshwar Sunil</a></li>
+  <li ><a href="users/maxon.html">Maxon Rodrigues</a></li>
+  <li ><a href="users/zayan.html">Zayan</a></li>
+
+
+</ul>
+
+</section>
+
+
+	<script>
+function myFunction() {
+    var input, filter, ul, li, a, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myUL");
+    li = ul.getElementsByTagName("li");
+    for (i = 0; i < li.length; i++) {
+        a = li[i].getElementsByTagName("a")[0];
+        txtValue = a.textContent || a.innerText;
+        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+            li[i].style.display = "";
+        } else {
+            li[i].style.display = "none";
+        }
+    }
+}
+</script>
+ 		</section>
+</body>
+</html>
