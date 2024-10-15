@@ -21,7 +21,7 @@ body {
 	position: fixed;
 }
 .sidebar-button {
-	background: #5a1c3a;
+	background: #6b5d3e;
     width: 178px;
     height: 45px;
     font-size: 20px;
@@ -37,7 +37,7 @@ body {
 	margin-right: 10px;
 }
 #border {
-	box-shadow:0 0 20px 7px rgb(49, 27, 59);
+	box-shadow: 0 0 20px 7px rgb(85 77 60);
 	height: 529px;
 	width: 900px;
 	margin-top: 80px;
