@@ -36,11 +36,13 @@ div.profile {
 .maxonprofilepic {
 	width: 50px;
 	margin-top: 20px;
+	
 }
 .ajexprofilepic {
 	width: 50px;
 	height: 50px;
 	margin-top: 15px;
+	border-radius: 50px;
 }
 .aaromalprofilepic {
 	width: 50px;
@@ -142,6 +144,14 @@ div.profile {
 #border-profile-aravi {
 	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
 	height:  688px;
+	width: 900px;
+	margin-left: 30px;
+	border-radius: 20px;
+	margin-bottom: 70px;
+}
+#border-profile-steve {
+	box-shadow: -1px 1px 20px 2px rgb(177 195 221 / 9);
+	height:  1182px;
 	width: 900px;
 	margin-left: 30px;
 	border-radius: 20px;
